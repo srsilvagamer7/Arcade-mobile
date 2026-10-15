@@ -1,0 +1,10 @@
+{
+  "name": "Arcade Mobile",
+  "short_name": "Arcade",
+  "description": "Jogos de navegador adaptados para Android",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10110f",
+  "theme_color": "#10110f",
+  "icons": []
+}
